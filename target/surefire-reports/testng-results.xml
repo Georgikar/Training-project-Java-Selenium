@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='C:\Users\karpovchanski\IdeaProjects\TrainingProject/Screenshots/dQ1NpO2.png'height = '400' width='600'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\karpovchanski\IdeaProjects\TrainingProject/Screenshots/3PFfPVF.png'height = '400' width='600'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[Logged on successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-18T12:37:55 MESZ" name="Sample Test Suite" finished-at="2024-10-18T12:38:44 MESZ" duration-ms="48729">
+    <groups>
+    </groups>
+    <test started-at="2024-10-18T12:37:55 MESZ" name="Sample Test" finished-at="2024-10-18T12:38:44 MESZ" duration-ms="48729">
+      <class name="testCases.TestNG">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testCases.TestNG@59309333]" started-at="2024-10-18T12:37:55 MESZ" name="initialize" finished-at="2024-10-18T12:38:02 MESZ" duration-ms="6831" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\karpovchanski\IdeaProjects\TrainingProject/Screenshots/dQ1NpO2.png'height = '400' width='600'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="Login()[pri:1, instance:testCases.TestNG@59309333]" started-at="2024-10-18T12:38:02 MESZ" name="Login" finished-at="2024-10-18T12:38:06 MESZ" duration-ms="3512" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\karpovchanski\IdeaProjects\TrainingProject/Screenshots/3PFfPVF.png'height = '400' width='600'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[Logged on successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddNewEmployee()[pri:2, instance:testCases.TestNG@59309333]" started-at="2024-10-18T12:38:06 MESZ" name="AddNewEmployee" finished-at="2024-10-18T12:38:43 MESZ" duration-ms="37453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewEmployee -->
+        <test-method is-config="true" signature="Terminate()[pri:0, instance:testCases.TestNG@59309333]" started-at="2024-10-18T12:38:43 MESZ" name="Terminate" finished-at="2024-10-18T12:38:44 MESZ" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Terminate -->
+      </class> <!-- testCases.TestNG -->
+    </test> <!-- Sample Test -->
+  </suite> <!-- Sample Test Suite -->
+</testng-results>

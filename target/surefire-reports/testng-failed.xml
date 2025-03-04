@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Sample Test(failed)" verbose="0">
+    <classes>
+      <class name="testCases.TestNG">
+        <methods>
+          <include name="AddNewEmployee"/>
+          <include name="initialize"/>
+          <include name="Terminate"/>
+        </methods>
+      </class> <!-- testCases.TestNG -->
+    </classes>
+  </test> <!-- Sample Test(failed) -->
+</suite> <!-- Failed suite [Sample Test Suite] -->
